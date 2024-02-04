@@ -1,2 +1,2 @@
-# pokelinze
-html y js con bootstrap 5
+# poke-js
+Proyecto educativo que utiliza JavaScript y HTML para enseñar la integración y uso de APIs, enfocado en la creación de aplicaciones web interactivas.
